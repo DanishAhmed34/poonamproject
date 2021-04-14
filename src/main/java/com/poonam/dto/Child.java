@@ -6,6 +6,9 @@ public class Child extends Parent{
 		System.out.println("I am a child");
 	}
 
+public static void main(String[] args) {
+	System.out.println("updated");
+}
 
 
 
